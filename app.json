@@ -1,0 +1,32 @@
+{
+  "id": "cd09c4e0-ca16-48b2-821e-c3bdc2390863",
+  "name": "DXC Prod: Add Order Number Field to Assembly Order Screen",
+  "publisher": "DXC",
+  "brief": "",
+  "description": "AMC-126 Update 09-10-19",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [{
+    "appId": "b97e4daf-810e-44ee-a117-7a99f3cd11bd",
+    "name": "DXC Assembly To Stock",
+    "publisher": "DXC",   
+    "version": "1.0.0.0"
+  }],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "target": "Internal",
+  "showMyCode": true,
+  "breakonerror" : true,
+  "runtime": "1.0"
+}
