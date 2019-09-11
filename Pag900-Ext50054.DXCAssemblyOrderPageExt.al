@@ -7,6 +7,7 @@ pageextension 50054 "DXCAssemblyOrderPageExt" extends "Assembly Order" //900
             field("Sales Order No.";"Sales Order No.")
             {
                 ApplicationArea = All;
+                Editable = false;
             }
         }
         
